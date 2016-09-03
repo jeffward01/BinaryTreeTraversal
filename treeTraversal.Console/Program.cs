@@ -7,17 +7,16 @@
             //Build Tree
             Tree theTree = new Tree();
             theTree.Insert(42);
-            theTree.Insert(51);
-            theTree.Insert(55);
-            theTree.Insert(18);
-            theTree.Insert(19);
-            theTree.Insert(50);
-            theTree.Insert(87);
-            theTree.Insert(67);
-            theTree.Insert(4);
+            theTree.Insert(25);
+            theTree.Insert(65);
             theTree.Insert(12);
-            theTree.Insert(10);
-            theTree.Insert(16);
+            theTree.Insert(37);
+            theTree.Insert(13);
+            theTree.Insert(30);
+            theTree.Insert(43);
+            theTree.Insert(87);
+            theTree.Insert(99);
+            theTree.Insert(9);
 
 
 
@@ -136,3 +135,6 @@
         }
     }
 }
+
+
+
