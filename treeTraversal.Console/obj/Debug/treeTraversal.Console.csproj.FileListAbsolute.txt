@@ -1,0 +1,6 @@
+C:\Dev\learning\dataStructures\treeTraversal\treeTraversal\treeTraversal.Console\bin\Debug\treeTraversal.Console.exe.config
+C:\Dev\learning\dataStructures\treeTraversal\treeTraversal\treeTraversal.Console\bin\Debug\treeTraversal.Console.exe
+C:\Dev\learning\dataStructures\treeTraversal\treeTraversal\treeTraversal.Console\bin\Debug\treeTraversal.Console.pdb
+C:\Dev\learning\dataStructures\treeTraversal\treeTraversal\treeTraversal.Console\obj\Debug\treeTraversal.Console.csprojResolveAssemblyReference.cache
+C:\Dev\learning\dataStructures\treeTraversal\treeTraversal\treeTraversal.Console\obj\Debug\treeTraversal.Console.exe
+C:\Dev\learning\dataStructures\treeTraversal\treeTraversal\treeTraversal.Console\obj\Debug\treeTraversal.Console.pdb
